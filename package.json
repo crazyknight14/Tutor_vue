@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.3.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase": "^7.5.2",
     "nodemon": "^1.19.4",
     "register-service-worker": "^1.6.2",
